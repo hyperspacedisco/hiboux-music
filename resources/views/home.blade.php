@@ -29,10 +29,8 @@
 			<div class="sexy_line line-desktop"></div>
 			<ul>
 				<li><a href="/music">Music</a></li>
-				<li><a href="/photos">Photos</a></li>
+				<li><a href="/media">Media</a></li>
 				<li><a href="/upcoming">Upcoming gigs</a></li>
-						<!-- contact page only for assignment. This will go after handin -->
-				<li><a href="/contact">Contact</a></li>
 			</ul>
 			<ul class="mobile-menu">
 					<li><a href="https://www.facebook.com/hibouxband"><img src="img/etc/facebook.png" alt="facebook" height="30"> Find us on Facebook</a></li>

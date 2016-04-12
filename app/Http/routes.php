@@ -13,3 +13,5 @@
 
 Route::get('/', 'HomeController@index')->middleware('web');
 Route::get('music', 'MusicController@index')->middleware('web');
+Route::get('media', 'MediaController@index')->middleware('web');
+Route::get('upcoming', 'UpcomingController@index')->middleware('web');
