@@ -57,7 +57,11 @@
 	</div>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<script type="text/javascript" src="js/photoswipe.js"></script>
+	<script type="text/javascript" src="js/photoswipe-ui-default.js" ></script>
+	<script type="text/javascript" src="js/hello.js"></script>
 	<script type="text/javascript" src="js/footer.js"></script>
 	<script src="js/header.js"></script>
+
 </body>
 </html>

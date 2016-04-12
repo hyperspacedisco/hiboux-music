@@ -1,8 +1,8 @@
 @extends('master')
 
-@section('title', 'Media')
+@section('title', 'Upcoming')
 
-@section('meta-description', 'Hiboux photos and videos.')
+@section('meta-description', 'Upcoming Hiboux gigs')
 
 @section('content')
 

@@ -202,8 +202,6 @@
 
 		<div class="boost-footer"></div>
 
-	<script type="text/javascript" src="js/photoswipe.js"></script>
 	
-	<script type="text/javascript" src="js/hello.js"></script>
 
 @endsection
