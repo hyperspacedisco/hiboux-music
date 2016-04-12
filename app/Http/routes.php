@@ -11,6 +11,5 @@
 |
 */
 
-Route::get('/', function () {
-    return view('home');
-});
+Route::get('/', 'HomeController@index')->middleware('web');
+Route::get('music', 'MusicController@index')->middleware('web');
